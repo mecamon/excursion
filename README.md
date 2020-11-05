@@ -31,4 +31,4 @@ There is no functions yet on this site, since it is just a static site.
 
 ## Project status
 
-Starting point.
+Project done!.

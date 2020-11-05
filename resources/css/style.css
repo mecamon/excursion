@@ -4,16 +4,29 @@ body {
     font-family: Verdana;
     background-color: black;
 }
+h1 {
+    color: white;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+footer {
+    text-align: center;
+}
 .title {
     text-align: center;
     font-weight: normal;
     font-size: 50px;
-    color: white;
+}
+.sub-title {
+    font-weight: 300;
+    font-size: 42px;
 }
 .link-container{
     text-align: center;
 }
-.link-container > a {
+a {
     text-align: center;
     color: aquamarine;
     font-size: 16px;
@@ -22,4 +35,13 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
+}
+.image-area {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.copyright {
+    padding-right: 20px;
+    text-align: right;
 }
