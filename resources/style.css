@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    background-color: black;
+}
+.title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.link-container{
+    text-align: center;
+}
+.link-container > a {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
