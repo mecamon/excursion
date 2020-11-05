@@ -1,4 +1,4 @@
-# Message Generator
+# Excursion 
 
 A simple static web page for an excursion practice site.
 
